@@ -11,7 +11,7 @@ todo
 // make wiki guide page for dart code-style  
 
 ## Topics to cover
-### lang: 
+### programming language 
 - [ ] dart  
 
 ### UI
