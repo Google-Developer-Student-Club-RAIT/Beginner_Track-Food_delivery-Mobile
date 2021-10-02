@@ -4,6 +4,12 @@ todo
 
 ## Installation
 
+## Step to Contribute
+
+## Code-Style
+
+// make wiki guide page for dart code-style  
+
 ## Topics to cover
 ### lang: 
 - [ ] dart  
