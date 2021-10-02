@@ -59,6 +59,8 @@ todo
 
 ### Contact
 
+Maintainer : sample@gmail.com
+
 ## LICENSE
 Copyright (c) **GDSC Rait**. All rights reserved. Licensed under the MIT License
 
