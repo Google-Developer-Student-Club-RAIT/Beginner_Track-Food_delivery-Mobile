@@ -57,7 +57,7 @@ flutter packages pub run build_runner watch
 **2.**  Clone your forked copy of the project.
 
 ```
-git clone https://github.com/<your_name>/Beginner_Track-Food_delivery-Mobile
+git clone https://github.com/<your_name>/Beginner_Track-Food_delivery-Mobile.git 
 ```
 
 **3.** Navigate to the project directory :file_folder: .
