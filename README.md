@@ -1,12 +1,16 @@
 # Beginner Track For Hybrid App Development: Food Delivery App
 ![](flutter_banner.png)
-todo 
+
 ## Information 
+This is a food ordering & delivery application built with a flutter framework and firebase real-time database. 
+Anyone can use this code for their own purpose. If you are interested in contributing to make this project then please follow [code-Style](codeStyle) and [Contribution steps](contribute).
 
 ## Installation
 
+<a id="contribute"></a>
 ## Step to Contribute
 
+<a id="codeStyle"></a>
 ## Code-Style
 
 // make wiki guide page for dart code-style  
