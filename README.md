@@ -3,7 +3,7 @@
 
 ## Information 
 This is a food ordering & delivery application built with a flutter framework and firebase real-time database. 
-Anyone can use this code for their own purpose. If you are interested in contributing to make this project then please follow [code-Style](codeStyle) and [Contribution steps](contribute).
+Anyone can use this code for their own purpose. If you are interested in contributing to make this project then please follow [code-Style](#code-style) and [Contribution steps](#step-to-contribute).
 
 ## Installation
 
