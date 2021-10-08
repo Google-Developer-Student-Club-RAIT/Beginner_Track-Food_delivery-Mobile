@@ -3,9 +3,29 @@ name: Mark stale issues and pull requests
 on:
   schedule:
   - cron: "35 * * * *"
+  pull_request:
+  push:
+    branches: 
+      - main
+      - develop
 
 jobs:
-  stale:
+   test:
+    name: Running Units Tests
+    runs-on: ubuntu-latest
+
+    steps:
+    - uses: actions/checkout@v1
+    - name: Use Node.js ${{ matrix.node-version }}
+      uses: actions/setup-node@v1
+      with:
+        node-version: ${{ matrix.node-version }}
+    - name: Install
+      run: npm install
+    - name: Test
+      run: npm test
+      
+   stale:
 
     runs-on: ubuntu-latest
 
