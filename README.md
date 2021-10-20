@@ -1,8 +1,16 @@
-# Beginner Track For Hybrid App Development: Food Delivery App
+# Beginner Track For Hybrid App Development: Women Safety App
 ![](flutter_banner.png)
 
 ## Information 
-This is a food ordering & delivery application built with a flutter framework and firebase real-time database. 
+In this App, you can find the details related to puberty, health issues, and more. The female will get enough information about their body so that they will not be dependent on others, this women safety app with various features on which women of our society can count on.
+
+Following are the features will build:
+
+- [ ] Get Home Safe: Tracking user's location after specific time (Set by the user)
+- [ ] Safe Shake: Shake mobile device to send SOS alerts even if the app is closed!
+- [ ] Get health issues information
+- [ ] Helplines: Contact nearest police stations, hospitals, fire brigade, pharmacies etc
+
 Anyone can use this code for their own purpose. If you are interested in contributing to make this project then please follow [code-Style](#code-style) and [Contribution steps](#step-to-contribute).
 
 ## Installation
@@ -16,7 +24,7 @@ Anyone can use this code for their own purpose. If you are interested in contrib
 Download or clone this repo by using the link below:
 
 ```
-https://github.com/Google-Developer-Student-Club-RAIT/Beginner_Track-Food_delivery-Mobile.git
+https://github.com/Google-Developer-Student-Club-RAIT/Beginner_Track-Women_Safety-Flutter-App.git
 ```
 
 **Step 2:**
@@ -52,24 +60,24 @@ flutter packages pub run build_runner watch
 
 
 
-**1.**  Fork [this](https://github.com/Google-Developer-Student-Club-RAIT/Beginner_Track-Food_delivery-Mobile) repository.
+**1.**  Fork [this](https://github.com/Google-Developer-Student-Club-RAIT/Beginner_Track-Women_Safety-Flutter-App) repository.
 
 **2.**  Clone your forked copy of the project.
 
 ```
-git clone https://github.com/<your_name>/Beginner_Track-Food_delivery-Mobile.git 
+git clone https://github.com/<your_name>/Beginner_Track-Women_Safety-Flutter-App.git 
 ```
 
 **3.** Navigate to the project directory :file_folder: .
 
 ```
-cd Beginner_Track-Food_delivery-Mobile
+cd Beginner_Track-Women_Safety-Flutter-App
 ```
 
 **4.** Add a reference(remote) to the original repository.
 
 ```
-git remote add upstream https://github.com/Google-Developer-Student-Club-RAIT/Beginner_Track-Food_delivery-Mobile
+git remote add upstream https://github.com/Google-Developer-Student-Club-RAIT/Beginner_Track-Women_Safety-Flutter-App
 ```
 
 **5.** Check the remotes for this repository.
@@ -129,7 +137,7 @@ git push -u origin <your_branch_name>
 
 // make wiki guide page for dart code-style  
 
-## Topics will cover in sessions
+## Topics will cover in this project
 ### programming language 
 - [ ] dart  
 
@@ -141,28 +149,23 @@ git push -u origin <your_branch_name>
 - [ ] dynamic UI
 - [ ] animations
 
-### Storage 
-
-- [ ] shared preference
-- [ ] file system 
-- [ ] SQLite 
-
 ### 3rd party libraries
 
 - [ ] http
 - [ ] cached_network_image
-- [ ] SQLite
 - [ ] Flutter_WebView_plugin
 - [ ] Font_awesome_flutter
+- [ ] geolocator
 
 ### Behavior Components
 
 - [ ] permissions
-- [ ] local notification
-- [ ] push notification
-- [ ] download manager 
-- [ ] media 
+- [ ] messages manager
+- [ ] contact
+- [ ] vibration
 
+
+## Extra Topics will cover in beginner track sessions
 ### State Management 
 
 - [ ] setState 
@@ -173,12 +176,19 @@ git push -u origin <your_branch_name>
 - [ ] Firebase Database(realtime & firestore)
 - [ ] Firebase Storage 
 - [ ] Firebase Messaging 
+  
+### Storage 
+
+- [ ] shared preference
+- [ ] file system 
+- [ ] SQLite 
 
 ### Contributors
 
 ### Contact
 
-Maintainer : sample@gmail.com
+Maintainer : harsh.kulkarni.42774@gmail.com, jadhavAkshay0701@gmail.com
+
 
 ## LICENSE
 Copyright (c) **GDSC Rait**. All rights reserved. Licensed under the MIT License
