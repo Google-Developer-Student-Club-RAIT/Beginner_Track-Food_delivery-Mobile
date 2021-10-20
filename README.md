@@ -129,7 +129,7 @@ git push -u origin <your_branch_name>
 
 // make wiki guide page for dart code-style  
 
-## Topics to cover
+## Topics will cover in sessions
 ### programming language 
 - [ ] dart  
 
