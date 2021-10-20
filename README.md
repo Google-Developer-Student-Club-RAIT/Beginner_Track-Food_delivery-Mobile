@@ -157,13 +157,15 @@ git push -u origin <your_branch_name>
 - [ ] Font_awesome_flutter
 - [ ] geolocator
 
+### Storage 
+- [ ] shared preference(for saving emergency contact)
+
 ### Behavior Components
 
 - [ ] permissions
 - [ ] messages manager
-- [ ] contact
+- [ ] contact 
 - [ ] vibration
-
 
 ## Extra Topics will cover in beginner track sessions
 ### State Management 
@@ -177,11 +179,6 @@ git push -u origin <your_branch_name>
 - [ ] Firebase Storage 
 - [ ] Firebase Messaging 
   
-### Storage 
-
-- [ ] shared preference
-- [ ] file system 
-- [ ] SQLite 
 
 ### Contributors
 
