@@ -2,7 +2,7 @@
 ![](flutter_banner.png)
 
 ## Information 
-In this App, you can find the details related to puberty, health issues, and more. The female will get enough information about their body so that they will not be dependent on others, this women safety app with various features on which women of our society can count on.
+In this App, you can find the details related to puberty, health issues, and more. The female will get enough information so that they will not be dependent on others, this women safety app with various features on which women of our society can count on.
 
 Following are the features will build:
 
